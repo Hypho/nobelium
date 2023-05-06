@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '少贺的个人空间',
+  title: 'Hypho\'s Blog',
   author: 'Craig Hart',
   email: 'shaohe01@gmail.com',
   link: 'https://blog.shaohe.xyz',
